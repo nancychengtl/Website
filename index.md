@@ -1,15 +1,11 @@
 <html>
-<head>
-<!--     <style>
+<style>
         img {
-          width: auto;
+          width: 40%;
           height: auto;
         }
-    </style> -->
-img {
-  width: 100%;
-  height: auto;
-}
+</style>
+
 <img src='picture.jpg'>
 
 </html>
