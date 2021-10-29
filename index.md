@@ -6,6 +6,6 @@
         }
 </style>
 
-<img src='picture.jpg'>
+<a href="https://www.surveycake.com/s/DNwP0"><img src='picture.jpg'></a>
 
 </html>
