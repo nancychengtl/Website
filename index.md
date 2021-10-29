@@ -1,7 +1,7 @@
 <html>
 <style>
         img {
-          width: 40%;
+          width: 100%;
           height: auto;
         }
 </style>
